@@ -1,4 +1,4 @@
---TRIGGER--
+ --TRIGGER--
 --Basic Eligibility Criteria for Donor to donate plasma:
 --1. Min 28 days since testing +ve for COVID, but less than 120 days
 CREATE OR REPLACE TRIGGER COVID_REPORT
